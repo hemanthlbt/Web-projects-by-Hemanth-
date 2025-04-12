@@ -1,0 +1,52 @@
+@font-face {
+	font-family : apple;
+	src : url(SFPRODISPLAYBOLD.OTF);
+}
+
+.container {
+	height : 300px;
+	width : 500px;
+	background-color : #1B56FD;
+	border-radius :10px;
+	display : flex;
+	flex-wrap;
+
+}
+
+
+.tst {
+	font-family : apple;
+	font-size : 20px;
+	color : white;
+	padding-left : 20px;
+}
+
+
+.container2 {
+	height : 300px;
+	width  : 500px;
+	background-color: #EAEAEA;
+	border-radius : 10px;
+	margin-top : 10px;
+	display : flex;
+
+}
+
+.tpt {
+	font-family : apple;
+	font-size : 40px;
+	color : black;
+	padding-left : 5px;
+}
+
+.pnp {
+	font-family : apple;
+	font-size : 25px;
+	color :grey;
+	padding-left : 10px;
+
+
+}
+
+
+
