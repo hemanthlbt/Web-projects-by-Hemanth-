@@ -1,0 +1,62 @@
+#main1 {
+	height : 30px;
+	width : 50px;
+	background-color : #445E93;
+	border : none;
+	border-radius : 2px ;
+}
+
+body {
+	background-color :#f2f8fc;
+	font-family : helvetica;
+	display : flex;
+	align-items : center; 
+	justify-content : center;
+	min-height :100vh;
+	margin:0;
+}
+
+main {
+	background-color :#F93943;
+	color : #ffffff;
+	padding :4rem 1rem;
+max-width : 800px;
+	width : 100%;
+	text-align : center;
+	border-radius : 10px;
+	box-shadow : 0 0 0 20px #dde6f7;
+}
+
+
+h1 {
+	margin-top : 0;
+}
+
+
+p {
+	color : #f1f1f1;
+}
+
+form {
+	margin : 2 rem auto 0;
+	position : relative;
+}
+
+input {
+	width : 100%;
+	padding: 1rem;
+	border : 1px solid #DDE6F7;
+	background: rgba(221,230,247,0.5);
+	border-radius : 40px ;
+	color : #ffffff;
+	font-size : 1rem;
+}
+button {
+	position : absolute;
+	top : 5px;
+	right : 5px;
+	border-radius : 50%;
+	height : 100px;
+
+
+}
